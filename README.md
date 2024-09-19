@@ -21,6 +21,8 @@ For access to the actual flood maps in geotiff or netcdf form, please contact Co
 		1. Sutcliffe and Parks Climatology
 		2. CRU (Penmen Monteith)
 		3. Hargreaves (using CRU data)
+  	Estimated Inflows (bcm/month)
+   	Estimated Outflows (bcm/month)
         
       
 ### *hydrologicModel.m* - MATLAB code that runs the calibrated hydrologic model. Instructions are provided within code.
