@@ -1,8 +1,10 @@
 # sudd_wetland_modeling
 This repository contains input data and code that can be used to model the Sudd Wetland hydrology (South Sudan, Nile River Basin), from 2000 to 2015. 
 
-For information on the satellite-derived dynamic flood extents, please refer to this paper: https://doi.org/10.1016/j.rse.2017.11.001
+For information on the satellite-derived dynamic flood extents, please refer to this paper: https://doi.org/10.1016/j.rse.2017.11.001<br /> 
 For information on the hydrologic model and data inputs, please refer to this paper: https://doi.org/10.1016/j.ejrh.2021.100922
+
+For access to the actual flood maps in geotiff or netcdf form, please contact Courtney Di Vittorio at divittoc@wfu.edu
 
 ## Description of files:
 
@@ -21,3 +23,4 @@ For information on the hydrologic model and data inputs, please refer to this pa
 		3. Hargreaves (using CRU data)
         
       
+### *hydrologicModel.m* - MATLAB code that runs the calibrated hydrologic model. Instructions are provided within code.
